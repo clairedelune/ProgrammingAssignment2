@@ -1,5 +1,13 @@
 ### Introduction
 
+Below you will find the initial recommendations and an example provided
+by the R programming Coursera course staff.
+This example served as a base to update the cachematrix.R file.
+This updated R file serves as an assessment of my participation to the
+week 3 of the previously mentioned course.
+
+### Introduction from Coursera R programming course
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
